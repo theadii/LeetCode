@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/theadii/LeetCode/tree/master/0062-unique-paths) |
 | [0213-house-robber-ii](https://github.com/theadii/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/theadii/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/theadii/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/theadii/LeetCode/tree/master/0062-unique-paths) |
 | [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
 ## Greedy
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/theadii/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
