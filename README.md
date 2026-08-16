@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/theadii/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/theadii/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/theadii/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/theadii/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
