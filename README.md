@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/theadii/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [1661-average-time-of-process-per-machine](https://github.com/theadii/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
