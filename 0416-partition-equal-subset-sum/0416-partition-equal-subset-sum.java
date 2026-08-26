@@ -1,32 +1,28 @@
 class Solution {
 
-    Boolean solve(int nums[],int i,int ttl,Boolean dp[][]){
+    Boolean solve(int i,int ttl,int[] arr,Boolean[][] dp){
+        if(i>= arr.length || ttl <0) return false;
+
+        if(dp[i][ttl]!= null) return dp[i][ttl];
         if(ttl == 0){
             return true;
         }
-        if(i>=nums.length || ttl < 0) return false;
-
-        if(dp[i][ttl]!=null) return dp[i][ttl];
-
-        Boolean pick = solve(nums,i+1,ttl - nums[i],dp);
-        Boolean NotPick = solve(nums,i+1,ttl,dp);
-
-        return dp[i][ttl] = (pick || NotPick);
         
+        Boolean p = solve(i+1,ttl - arr[i],arr,dp);
+        Boolean np = solve(i+1,ttl,arr,dp);
 
-
+        return dp[i][ttl] = (p || np);
     }
+
 
     public boolean canPartition(int[] nums) {
         int n = nums.length;
-        int ttl = 0;
-        for(int i=0;i<n;i++){
-            ttl+=nums[i];
-        }
+        int sum = 0;
+        for(int x : nums) sum+=x;
 
-        if(ttl%2!=0) return false;
-        ttl/=2;
-        Boolean dp[][] = new Boolean[n][ttl+1];
-        return solve(nums,0,ttl,dp);
+        if(sum%2!=0) return false;
+        Boolean dp[][] = new Boolean[n+1][(sum/2) + 1];
+
+        return solve(0,sum/2,nums,dp);
     }
 }
