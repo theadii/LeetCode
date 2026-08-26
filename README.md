@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/theadii/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/theadii/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/theadii/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/theadii/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/theadii/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/theadii/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/theadii/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 ## Binary Search
 |  |
@@ -129,8 +131,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/theadii/LeetCode/tree/master/0053-maximum-subarray) |
+| [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theadii/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
