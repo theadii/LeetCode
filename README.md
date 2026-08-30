@@ -116,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theadii/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theadii/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/theadii/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 ## Sorting
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/theadii/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/theadii/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Prefix Sum
 |  |
