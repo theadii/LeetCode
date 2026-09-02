@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0299-bulls-and-cows](https://github.com/theadii/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/theadii/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/theadii/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/theadii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/theadii/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 ## String
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/theadii/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0299-bulls-and-cows](https://github.com/theadii/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/theadii/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 ## Sorting
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
