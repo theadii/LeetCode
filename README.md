@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/theadii/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/theadii/LeetCode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/theadii/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theadii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/theadii/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/theadii/LeetCode/tree/master/0062-unique-paths) |
 | [0486-predict-the-winner](https://github.com/theadii/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/theadii/LeetCode/tree/master/1140-stone-game-ii) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-print-zero-even-odd](https://github.com/theadii/LeetCode/tree/master/1116-print-zero-even-odd) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/theadii/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
