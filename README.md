@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/theadii/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/theadii/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/theadii/LeetCode/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/theadii/LeetCode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/theadii/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theadii/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/theadii/LeetCode/tree/master/0213-house-robber-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/theadii/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/theadii/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/theadii/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/theadii/LeetCode/tree/master/0091-decode-ways) |
 | [0299-bulls-and-cows](https://github.com/theadii/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/theadii/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
