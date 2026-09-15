@@ -51,41 +51,28 @@
 //     }
 // }
 
-class Solution {
 
-    int[][] pal;
+// can be done greddy also just pick  palindrome of size k or k+1 earliest as possible 
+class Solution {
 
     public int maxPalindromes(String s, int k) {
         int n = s.length();
+        int ans = 0,
+            start = 0;
 
-        // -1 = not checked
-        //  0 = not palindrome
-        //  1 = palindrome
-        pal = new int[n][n];
-
-        for (int i = 0; i < n; i++) {
-            Arrays.fill(pal[i], -1);
-        }
-
-        int ans = 0;
-        int start = 0;
-
-        for (int r = k - 1; r < n; r++) {
-
-            // Check palindrome of length k
+        for (int r = k - 1; r < n; ++r) {
+            // checck for len of k
             int l = r - k + 1;
 
-            if (l >= start && isP(l, r, s)) {
-                ans++;
+            if (l >= start && check(s, l, r)) {
+                ++ans;
                 start = r + 1;
                 continue;
             }
-
-            // Check palindrome of length k + 1
+            // check for len of k+1
             l = r - k;
-
-            if (l >= start && isP(l, r, s)) {
-                ans++;
+            if (l >= start && check(s, l, r)) {
+                ++ans;
                 start = r + 1;
             }
         }
@@ -93,23 +80,12 @@ class Solution {
         return ans;
     }
 
-    boolean isP(int l, int r, String s) {
-
-        if (l >= r)
-            return true;
-
-        if (pal[l][r] != -1)
-            return pal[l][r] == 1;
-
-        if (s.charAt(l) != s.charAt(r)) {
-            pal[l][r] = 0;
-            return false;
+    private boolean check(String s, int l, int r) {
+        while (l < r) {
+            if (s.charAt(l++) != s.charAt(r--)) {
+                return false;
+            }
         }
-
-        boolean ans = isP(l + 1, r - 1, s);
-
-        pal[l][r] = ans ? 1 : 0;
-
-        return ans;
+        return true;
     }
 }
