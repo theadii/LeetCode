@@ -1,37 +1,27 @@
 class Solution {
     public int deleteAndEarn(int[] nums) {
-        Arrays.sort(nums);
-        Map<Integer,Integer> freq = new LinkedHashMap<>();
-        int n = nums.length;
-        for(int i=0;i<n;i++){
-            freq.put(nums[i],freq.getOrDefault(nums[i],0)+1);
-        }
-        int dp[] = new int[freq.size()];
-        int arr[] = new int[freq.size()];
-        int idx=0;
-        for(int x : freq.keySet()){
-            arr[idx] = x;
-            idx++;
+        int maxi = -1;
+
+        for(int x : nums){
+            maxi = Math.max(x,maxi);
         }
 
-        dp[0] = arr[0] * freq.get(arr[0]);
+        int freq[] = new int[maxi+1];
+        for(int x : nums){
+            freq[x] += x;
+        }
+        int prev1 = 0;
+        int prev2 = 0;
 
-        for(int i=1;i<freq.size();i++){
+        for(int i=1;i<=maxi;i++){
+            int take = freq[i] + prev2;
+            int ntake = prev1;
 
-            int take = arr[i] * freq.get(arr[i]);
-            if(arr[i] != arr[i-1] +1){
-                take += dp[i-1];
-            }
-            else{
-                if(i>1) take += dp[i-2];
-            }
-
-            int ntake = dp[i-1];
-            dp[i] = Math.max(take,ntake);
+            int curr = Math.max(take,ntake);
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        return dp[dp.length-1];
-
-        
+        return prev1;
     }
 }
