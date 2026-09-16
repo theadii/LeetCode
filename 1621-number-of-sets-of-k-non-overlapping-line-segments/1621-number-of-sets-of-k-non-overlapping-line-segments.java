@@ -1,0 +1,29 @@
+class Solution {
+    int dp[][];
+
+    int MOD = 1000000007;
+    int solve(int n,int i,int k){
+        if(k==0)return 1;
+        if(i>=n)return 0;
+        if(dp[i][k]!=-1) return dp[i][k];
+        int skip = solve(n,i+1,k) % MOD;
+        int take = 0;
+
+        for(int j=i+1;j<n;j++){
+            take= (take % MOD) + (solve(n,j,k-1) % MOD);
+        }
+
+        return dp[i][k] =  (take + skip) % MOD;
+    }
+    public int numberOfSets(int n, int k) {
+        if(k == n-1){
+            return 1;
+        }
+
+        dp = new int[n+1][n+1];
+        for(int i=0;i<=n;i++){
+            Arrays.fill(dp[i],-1);
+        }
+        return solve(n,0,k);
+    }
+}
