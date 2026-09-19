@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theadii/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/theadii/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/theadii/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/theadii/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theadii/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theadii/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/theadii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theadii/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/theadii/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Game Theory
 |  |
 | ------- |
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/theadii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/theadii/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theadii/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Simulation
 |  |
 | ------- |
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/theadii/LeetCode/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theadii/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/theadii/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
 |  |
@@ -174,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/theadii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/theadii/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
