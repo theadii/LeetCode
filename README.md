@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/theadii/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/theadii/LeetCode/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/theadii/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theadii/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/theadii/LeetCode/tree/master/2029-stone-game-ix) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/theadii/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/theadii/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/theadii/LeetCode/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/theadii/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theadii/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theadii/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/theadii/LeetCode/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/theadii/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theadii/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/theadii/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
