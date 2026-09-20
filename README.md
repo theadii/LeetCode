@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/theadii/LeetCode/tree/master/0983-minimum-cost-for-tickets) |
 | [1140-stone-game-ii](https://github.com/theadii/LeetCode/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/theadii/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1222-queens-that-can-attack-the-king](https://github.com/theadii/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theadii/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 | [1813-sentence-similarity-iii](https://github.com/theadii/LeetCode/tree/master/1813-sentence-similarity-iii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1222-queens-that-can-attack-the-king](https://github.com/theadii/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/theadii/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3498-reverse-degree-of-a-string](https://github.com/theadii/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/theadii/LeetCode/tree/master/0048-rotate-image) |
+| [1222-queens-that-can-attack-the-king](https://github.com/theadii/LeetCode/tree/master/1222-queens-that-can-attack-the-king) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/theadii/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
