@@ -1,34 +1,33 @@
 class Solution {
-    int dp[][];
-    int solve(int i,int ttl,List<Integer> nums){
-        if(ttl == 0){
-            return 0;
-        }
-
-        if(i == nums.size() || ttl<0 ){
-        
-            return Integer.MIN_VALUE;
-        }
-        if(dp[i][ttl]!=-1) return dp[i][ttl];
-
-        
-        
-        int take = 1 + solve(i+1,ttl - nums.get(i),nums);
-        
-        int nTake = solve(i+1,ttl,nums);
-
-        return dp[i][ttl]= Math.max(take,nTake);
-
-    }
 
     public int lengthOfLongestSubsequence(List<Integer> nums, int target) {
-        int n = nums.size();
-        dp = new int[n+1][target+1];
 
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
+        int n = nums.size();
+
+        int[][] dp = new int[n + 1][target + 1];
+
+        // i == n
+        Arrays.fill(dp[n], -10000);
+        dp[n][0] = 0;
+
+        for (int i = n - 1; i >= 0; i--) {
+
+            dp[i][0] = 0;
+
+            for (int ttl = 1; ttl <= target; ttl++) {
+
+                int nTake = dp[i + 1][ttl];
+
+                int take = -10000;
+
+                if (ttl >= nums.get(i)) {
+                    take = 1 + dp[i + 1][ttl - nums.get(i)];
+                }
+
+                dp[i][ttl] = Math.max(take, nTake);
+            }
         }
-        int ans  = solve(0,target,nums);
-        return ans < 0 ? -1 : ans ;
+
+        return dp[0][target] < 0 ? -1 : dp[0][target];
     }
 }
