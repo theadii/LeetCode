@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theadii/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/theadii/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/theadii/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/theadii/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3525-find-x-value-of-array-ii](https://github.com/theadii/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/theadii/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theadii/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theadii/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/theadii/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
@@ -140,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/theadii/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/theadii/LeetCode/tree/master/0518-coin-change-ii) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/theadii/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/theadii/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/theadii/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Database
 |  |
 | ------- |
