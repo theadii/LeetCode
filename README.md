@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0740-delete-and-earn](https://github.com/theadii/LeetCode/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
+| [1096-brace-expansion-ii](https://github.com/theadii/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/theadii/LeetCode/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/theadii/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/theadii/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/theadii/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
+| [1096-brace-expansion-ii](https://github.com/theadii/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/theadii/LeetCode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1813-sentence-similarity-iii](https://github.com/theadii/LeetCode/tree/master/1813-sentence-similarity-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theadii/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/theadii/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0767-reorganize-string](https://github.com/theadii/LeetCode/tree/master/0767-reorganize-string) |
+| [1096-brace-expansion-ii](https://github.com/theadii/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/theadii/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/theadii/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/theadii/LeetCode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/theadii/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -283,4 +287,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/theadii/LeetCode/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/theadii/LeetCode/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/theadii/LeetCode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
