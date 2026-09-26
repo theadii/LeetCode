@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/theadii/LeetCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/theadii/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theadii/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/theadii/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/theadii/LeetCode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/theadii/LeetCode/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Binary Search
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theadii/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/theadii/LeetCode/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/theadii/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/theadii/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Minimax
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/theadii/LeetCode/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/theadii/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Geometry
 |  |
